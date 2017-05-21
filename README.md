@@ -1,4 +1,4 @@
-This is a clone of the [@ngrx example application](https://github.com/ngrx/example-app). This implementation extends it to include CRUD functionality with a separate custom backend API. The backend project can be found [here]()
+This is a clone of the [@ngrx example application](https://github.com/ngrx/example-app). This implementation extends it to include CRUD functionality with a separate custom backend API. The backend project can be found [here](https://github.com/richjava/express-mongoose-es6-rest-api-develop-ext)
 
 # @ngrx example application
 
