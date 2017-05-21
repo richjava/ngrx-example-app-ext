@@ -1,5 +1,7 @@
 This is a clone of the [@ngrx example application](https://github.com/ngrx/example-app). This implementation extends it to include CRUD functionality (for a "School" entity) with a custom backend API. The backend project can be found [here](https://github.com/richjava/express-mongoose-es6-rest-api-develop-ext)
 
+NOTE: The functionality for Schools will not work without running the backend project.
+
 # @ngrx example application
 
 Example application utilizing @ngrx libraries, showcasing common patterns and best practices.
