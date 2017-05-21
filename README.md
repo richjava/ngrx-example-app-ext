@@ -27,11 +27,11 @@ Built with [@angular/cli](https://github.com/angular/angular-cli)
 
 ```bash
 # clone the repo
-git clone https://github.com/ngrx/example-app.git
+git clone https://github.com/richjava/ngrx-example-app-ext.git
 
 
 # change directory to repo
-cd example-app
+cd example-app-ext
 
 # Use npm or yarn to install the dependencies:
 npm install
